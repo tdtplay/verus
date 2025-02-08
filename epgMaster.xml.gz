@@ -1,3 +1,1 @@
-#EXTM3U tvg-url="https://raw.githubusercontent.com/moonlightz/meo-epg/master/meo-modificado.xml.gz"
-#EXTM3U tvg-url="https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-rytec-pt.xml.gz"
-#EXTM3U tvg-url="https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-meo-pt.xml.xz"
+#EXTM3U tvg-url="https://raw.githubusercontent.com/moonlightz/meo-epg/master/meo-modificado.xml.gz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-rytec-pt.xml.gz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-meo-pt.xml.xz"
